@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.DS_Store
+terraform/.terraform
+terraform/terraform.tfstate*
+terraform/*.tfplan
+terraform/*.tfvars
